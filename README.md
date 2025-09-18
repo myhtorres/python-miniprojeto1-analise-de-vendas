@@ -65,11 +65,10 @@ A loja de e-commerce precisa responder a quatro perguntas estratégicas:
 1.  Clone este repositório:
 
     ``` bash
-    git clone https://github.com/SEU-USUARIO/analise-vendas-ecommerce.git
+    git clone https://github.com/myhtorres/python-miniprojeto1-analise-de-vendas.git
     ```
 
-2.  Abra o arquivo `Python-MiniProjeto1.ipynb` no **Jupyter Notebook**
-    ou **VS Code**.\
+2.  Abra o arquivo `Python-MiniProjeto1.ipynb` no **Jupyter Notebook**.
 
 3.  Execute todas as células para gerar dados simulados, estatísticas e
     gráficos.
