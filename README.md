@@ -1,75 +1,66 @@
 # 📊 Análise de Vendas em E-commerce
 
 Este projeto simula a análise de dados de vendas de uma loja online em
-crescimento.\
+crescimento.
 O objetivo é transformar dados brutos em **insights acionáveis** que
 apoiem decisões de negócio em áreas como estoque, marketing,
 sazonalidade e expansão regional.
 
 ------------------------------------------------------------------------
 
-## 🚀 Habilidades Desenvolvidas
+## Habilidades Desenvolvidas
 
--   **Programação em Python** para análise de dados.\
--   **Manipulação e tratamento de dados** com `pandas` e `numpy`.\
--   **Geração de dados simulados** para prática de cenários de negócio.\
--   **Análise exploratória de dados (EDA)**.\
--   **Visualização de dados** com `matplotlib` e `seaborn`.\
--   **Estatística descritiva** aplicada a séries de vendas.\
--   **Modelagem de problemas de negócio em linguagem de dados**.\
+-   **Programação em Python** para análise de dados.
+-   **Manipulação e tratamento de dados** com `pandas` e `numpy`.
+-   **Geração de dados simulados** para prática de cenários de negócio.
+-   **Análise exploratória de dados (EDA)**.
+-   **Visualização de dados** com `matplotlib` e `seaborn`.
+-   **Estatística descritiva** aplicada a séries de vendas.
+-   **Modelagem de problemas de negócio em linguagem de dados**.
 -   **Documentação clara** com Jupyter Notebook (`.ipynb`).
 
 ------------------------------------------------------------------------
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
--   **Python 3.11+**\
+-   **Python 3.11+**
 -   [Pandas](https://pandas.pydata.org/) → manipulação de dados em
-    tabelas\
--   [NumPy](https://numpy.org/) → operações matemáticas e arrays\
--   [Matplotlib](https://matplotlib.org/) → gráficos e visualizações\
+    tabelas
+-   [NumPy](https://numpy.org/) → operações matemáticas e arrays
+-   [Matplotlib](https://matplotlib.org/) → gráficos e visualizações
 -   [Seaborn](https://seaborn.pydata.org/) → visualização estatística
-    avançada\
--   **Jupyter Notebook / VS Code** → ambiente de desenvolvimento
+    avançada
+-   **Jupyter Notebook** → ambiente de desenvolvimento
 
 ------------------------------------------------------------------------
 
-## 📌 Problema de Negócio
+## Problema de Negócio
 
 A loja de e-commerce precisa responder a quatro perguntas estratégicas:
 
 1.  **O que vender?** -- Identificar produtos de maior sucesso para
-    otimizar portfólio e estoque.\
-2.  **Onde focar?** -- Descobrir categorias mais lucrativas.\
-3.  **Quando agir?** -- Analisar sazonalidade e tendências mensais.\
+    otimizar portfólio e estoque.
+2.  **Onde focar?** -- Descobrir categorias mais lucrativas.
+3.  **Quando agir?** -- Analisar sazonalidade e tendências mensais.
 4.  **Para onde expandir?** -- Mapear mercados mais promissores com base
     em vendas regionais.
 
 ------------------------------------------------------------------------
 
-## 📊 Resultados Esperados
+## Resultados Esperados
 
--   Melhor visibilidade da performance de vendas.\
+-   Melhor visibilidade da performance de vendas.
 -   **Otimização de estoque** com base nos produtos mais e menos
-    vendidos.\
+    vendidos.
 -   **Campanhas de marketing mais eficazes** com foco em categorias e
-    regiões certas.\
--   **Planejamento estratégico** baseado em sazonalidade.\
+    regiões certas.
+-   **Planejamento estratégico** baseado em sazonalidade.
 -   **Cultura orientada a dados**, substituindo decisões intuitivas por
     evidências.
 
 ------------------------------------------------------------------------
 
-## 🗂 Estrutura do Projeto
-
-    📂 analise-vendas-ecommerce
-     ┣ 📜 Python-MiniProjeto1.ipynb   ← Notebook principal com código e análises
-     ┣ 📜 README.md                   ← Documentação do projeto
-     ┗ 📂 data/ (opcional)            ← Base de dados simulada
-
-------------------------------------------------------------------------
-
-## ▶️ Como Executar
+## Como Executar
 
 1.  Clone este repositório:
 
