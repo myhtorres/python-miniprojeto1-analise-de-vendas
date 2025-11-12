@@ -1,6 +1,7 @@
 # 📊 Análise de Vendas em E-commerce
 
 Projeto desenvolvido durante o curso Fundamentos de Linguagem Python — Do Básico a Aplicações de IA, da Data Science Academy (DSA).
+
 Este projeto simula a análise de dados de vendas de uma loja online em
 crescimento. O objetivo é transformar dados brutos em **insights acionáveis** que
 apoiem decisões de negócio em áreas como estoque, marketing,
